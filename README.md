@@ -1,4 +1,4 @@
-# ![WebApp](https://iharsh234.github.io/WebApp/images/demo/demo_landing.JPG)
+# ![WebApp](https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo.png)
 
 # Git e Github avançado.
 
