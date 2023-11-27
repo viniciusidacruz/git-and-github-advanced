@@ -18,10 +18,39 @@ main {
   height: 100vh;
 }
 
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
 section {
   display: flex;
   align-items: center;
   justify-content: center;
+  flex-direction: column;
+  gap: 1rem;
 
   height: 100%;
+}
+
+#cta-github {
+  width: 220px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  padding: 1rem;
+
+  color: #ccc;
+
+  font-size: 1rem;
+
+  border: 1px solid #ccc;
+  border-radius: 0.6rem;
+
+  transition: all 0.2s ease;
+}
+
+#cta-github:hover {
+  filter: brightness(1.5);
 }
