@@ -1,6 +1,6 @@
 # O que foi feito?
 
-Please include a summary of the changes and the related issue. Please also include relevant motivation and context. List any dependencies that are required for this change.
+Inclua um resumo das alterações e do problema relacionado. Inclua também motivação e contexto relevantes. Liste todas as dependências necessárias para essa alteração.
 
 Fixes # (issue)
 
