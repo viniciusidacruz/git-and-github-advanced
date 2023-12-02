@@ -1,0 +1,23 @@
+{
+  "name": "git-and-github-advanced",
+  "version": "1.0.0",
+  "description": "Esse repositório tem o intuito de treinar alguns comandos e configurações avançadas de git, também estudar e treinar alguns pontos importantes no github.",
+  "main": "index.html",
+  "scripts": {
+    "first-install": "npx husky install"
+  },
+  "keywords": [
+    "devops",
+    "git",
+    "github",
+    "conventional commits",
+    "semver"
+  ],
+  "author": "Vinicius Italo da Cruz",
+  "license": "MIT",
+  "devDependencies": {
+    "@commitlint/cli": "^18.4.3",
+    "@commitlint/config-conventional": "^18.4.3",
+    "husky": "^8.0.3"
+  }
+}
