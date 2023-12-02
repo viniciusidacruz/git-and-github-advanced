@@ -3,6 +3,12 @@
   "version": "1.0.0",
   "description": "Esse repositório tem o intuito de treinar alguns comandos e configurações avançadas de git, também estudar e treinar alguns pontos importantes no github.",
   "main": "index.html",
+  "engines": {
+    "node": ">=20.9.0",
+    "npm": ">=10.2.4",
+    "yarn": "please-use-npm",
+    "pnpm": "please-use-npm"
+  },
   "scripts": {
     "first-install": "npx husky install",
     "commit": "cz"
