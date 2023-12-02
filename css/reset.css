@@ -47,6 +47,10 @@ footer strong {
   color: aquamarine;
 }
 
+#highlight {
+  color: aquamarine;
+}
+
 #cta-github {
   width: 220px;
   display: flex;
