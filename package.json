@@ -4,7 +4,8 @@
   "description": "Esse repositório tem o intuito de treinar alguns comandos e configurações avançadas de git, também estudar e treinar alguns pontos importantes no github.",
   "main": "index.html",
   "scripts": {
-    "first-install": "npx husky install"
+    "first-install": "npx husky install",
+    "commit": "cz"
   },
   "keywords": [
     "devops",
@@ -18,6 +19,12 @@
   "devDependencies": {
     "@commitlint/cli": "^18.4.3",
     "@commitlint/config-conventional": "^18.4.3",
+    "cz-conventional-changelog": "^3.3.0",
     "husky": "^8.0.3"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
   }
 }
